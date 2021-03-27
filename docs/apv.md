@@ -1,19 +1,5 @@
 # Algemene Plaatselijke Verordening BigPoint 2021
 
-## Wetstechnische informatie
-
-| | |
-|---|---|
-| Overheidsorganisatie      | Hoge Raad BigPoint |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening BigPoint 2021 |
-| Citeertitel               | Algemene Plaatselijke Verordening BigPoint|
-| Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid|
-
-### Opmerkingen met betrekking tot de verordening
-
-Het Wetboek van Strafrecht, specifiek bedoeld voor BigPoint, wordt hierbij ingetrokken en vervangen door deze APV.
-
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
@@ -40,7 +26,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor BigPoint, wordt hierbij inget
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
-2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de House Masters en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
@@ -70,7 +56,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor BigPoint, wordt hierbij inget
 
 1. Hij/zij die gebruik maakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens de 7e categorie.
 2. Enkele voorbeelden hiervan zijn, onder andere, een crossair en/of cheats.
-3. De hoge raad kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen, En mag op basis hiervan een straf namens de 7e categorie uitdelen.
+3. De house masters kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen, En mag op basis hiervan een straf namens de 7e categorie uitdelen.
 
 ### Artikel 3 - Exploits
 
@@ -78,7 +64,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor BigPoint, wordt hierbij inget
 2. Wanneer het om bedragen gaat hoger dan €50.000,- zal de straf genoemd in lid 1 verhoogd worden naar de 6e categorie.
 3. Wanneer het om bedragen gaat hoger dan €100.000,- zal de straf genoemd in lid 1 en lid 2 verhoogd worden naar de 7e categorie.
 4. De bedragen zoals genoemd in lid 2 en lid 3 zijn ook van toepassing voor voorwerpen, hiervoor zal dan de waarde van deze voorwerpen worden getaxeerd. Taxering geschiedt hier op basis van catalogus of -marktwaarde.
-5. De bedragen en/of materialen zullen per direct teruggegeven worden aan de Hoge Raad. De Hoge Raad dient deze per direct te vernietigen. Hiernaast zullen de betrokken accounts ook volledig verwijderd worden (categorie 8).
+5. De bedragen en/of materialen zullen per direct teruggegeven worden aan de House Masters. De Hoge Raad dient deze per direct te vernietigen. Hiernaast zullen de betrokken accounts ook volledig verwijderd worden (categorie 8).
 6. Naast de in lid 1, 2 en 3 genoemde straffen zal de overtreder ook 25% van de waarde extra terug moeten betalen.
 
 ### Artikel 4 - Verstoring RP
@@ -305,7 +291,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 34 - Gedrag Criminele Organisaties
 
-1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de House Masters beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
 ### Artikel 35 - Illegale activiteiten op Twitter
 
@@ -405,8 +391,8 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 48 - Jobhoppen
 
-1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
+1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de House Masters.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de House Masters.
 3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen en deze persoon dit beroep 7 kalenderdagen lang niet uitvoeren.
 4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
@@ -493,5 +479,3 @@ Onderstaande regels tellen alleen op Narcopolis
 * Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
----------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “BigPoint”, opgetekend door Bram Mosterdfiets, te BigPoint.
