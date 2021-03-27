@@ -1,22 +1,12 @@
 # Wetboek BigPoint
 
-## Wetstechnische informatie
-
-| | |
-|---|---|
-| Overheidsorganisatie      | Hoge Raad BigPoint |
-| Officiële naam            | Algemeen Wetboek BigPoint |
-| Citeertitel               | Wetboek BigPoint |
-| Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid |
-
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek BigPoint (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
-2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad BigPoint.
-3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening BigPoint (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek BigPoint is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
+2. Het Wetboek heeft betrekking op het vaste land, de gemeente, en de stad BigPoint.
+3. Het Wetboek is nauw verweven met de Algemene Plaatselijke Verordening BigPoint (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
@@ -27,10 +17,10 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-   * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
-   * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-   * Voor misdrijven waar de totale strafeis tussen de 86 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
-   * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 7 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 14 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 0 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
+   * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 60 dagen;
 
 ### A4 - Strafbepaling
 
@@ -38,8 +28,8 @@
    * Waarschuwingen;
    * Taakstraffen;
    * Celstraffen;
-   * rijontzeggingen;
-   * inbeslagnames of invorderingen;
+   * Rijontzeggingen;
+   * Inbeslagnames of invorderingen;
    * Boetes.
 2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
@@ -72,7 +62,7 @@
    * Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
    * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
    * Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
-   * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste € 200000,-
+   * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste € 100000,-
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
    * Wanneer het voertuig bewijsbaar onderdeel was van het misdrijf en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
    * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen. In dit geval zal het voertuig worden vernietigd.
@@ -144,7 +134,7 @@
 | **Tweede Veroordeling**  | 80 maanden  |  | € 10000,-  |
 | **Meerdere Veroordelingen**  | 120 maanden  |  | € 15000,-  |
 
-### Artikel I-4 Afdreiging / Chantage (318 SR)
+### Artikel I-4 Bedreiging / Chantage (318 SR)
 
 1. Schuldig is een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim.
 2. Schuldig is een persoon die een actie forceert of eist van een derde door bedreiging met smaad of openbaring van een geheim.
@@ -177,17 +167,7 @@
 | **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
 
-### Artikel I-7 Witwassen (420bis SR)
-
-1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
-
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |   | € 15000,-  |
-| **Tweede Veroordeling**  | 60 maanden  |  | € 20000,-  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | € 25000,-  |
-
-### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
+### Artikel I-7 Geldige verklaring herkomst contanten (321 SR)
 
 1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
 2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.

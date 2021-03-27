@@ -51,10 +51,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor BigPoint, wordt hierbij inget
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek BigPoint (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in BigPoint.
+1. Aanvullend op de APV is er het Wetboek BigPoint, waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in BigPoint.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
-   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend.
+   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de Wetboek BigPoint. Dan is deze leidend.
 3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
 ## Overtredingen - Verstoring openbare orde (RP)
@@ -171,7 +171,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 15 - Reporting
 
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de TDA Discord.
+2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de BigPoint Discord.
 3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
 4. Het overtreden van lid 3 zal resulteren in een straf volgens de 2e categorie.
 
