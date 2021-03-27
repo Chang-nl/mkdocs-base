@@ -719,7 +719,7 @@
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 5 uur  | € 2500,-  |
 | **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 10000,-  |
+| **Meerdere Veroordelingen**  |   | 25 uur | € 10000,-  |
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
