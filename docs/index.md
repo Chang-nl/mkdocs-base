@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Wet- en Regelgeving Tedeapolis
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Welkom op de pagina voor de Wet- en Regelgeving van Tedeapolis!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Tedeapolis.
 
-## Commands
+Zorg ervoor, dat je voor je deelneemt aan Tedeapolis, kennis hebt genomen van deze wetten.
 
-* `mkdocs new [dir-name]` - Create a new project.TEST222d
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
+- Het Wetboek Tedeapolis bevat alle wetten voor de burgers.
+- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
-## Project layout
+## Officiële discord servers
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Tedeapolis heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+|Tedeapolis RolePlay| Main discord server van Tedeapolis | [Invite](https://discord.gg/tedeapolis) |
+|Tedeapolis Support| Support discord server van Tedeapolis | [Invite](https://discord.gg/uQ9jGA93yC) |
+|Tedeapolis Cardealer| Cardealer discord server van Tedeapolis | [Invite](https://discord.gg/UcCG2kn) |
+|Tedeapolis Flightschool| Vliegschool discord server van Tedeapolis | [Invite](https://discord.gg/auN5WCH) |
+|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Tedeapolis | [Invite](https://discord.gg/KPTt4ce5nw) |
