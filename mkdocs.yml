@@ -1,6 +1,5 @@
 site_name: BigPoint RP
 site_description: 'wet en regelgeving van BigPoint'
-theme: readthedocs
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
