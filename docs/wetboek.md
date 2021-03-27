@@ -243,7 +243,7 @@
 |---|---|---|---|
 |  **Eerste Veroordeling** | 80 maanden  |  | € 15000,-  |
 | **Tweede Veroordeling**  | 90 maanden  |  | € 20000,-  |
-| **Meerdere Veroordelingen**  | 100 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 105 maanden  |  | € 25000,-  |
 
 ### Artikel II-5 Moord (289 SR)
 
