@@ -1,24 +1,24 @@
-# Algemene Plaatselijke Verordening Tedeapolis 2021
+# Algemene Plaatselijke Verordening BigPoint 2021
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis 2021 |
-| Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
+| Overheidsorganisatie      | Hoge Raad BigPoint |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening BigPoint 2021 |
+| Citeertitel               | Algemene Plaatselijke Verordening BigPoint|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor BigPoint, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Tedeapolis.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad BigPoint.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
@@ -51,7 +51,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek Tedeapolis (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Tedeapolis.
+1. Aanvullend op de APV is er het Wetboek BigPoint (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in BigPoint.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
    * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend.
@@ -386,7 +386,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 44 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
+2. Wanneer je met meerdere mensen die op BigPoint spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 3. Het overtreden van het feit genoemd in lid 1 of 2 zal resulteren in een straf van de 1e categorie.
 4. Het overtreden van het feit genoemd in lid 1 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
 
@@ -494,4 +494,4 @@ Onderstaande regels tellen alleen op Narcopolis
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “BigPoint”, opgetekend door Bram Mosterdfiets, te BigPoint.
