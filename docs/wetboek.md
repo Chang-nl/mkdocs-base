@@ -1,12 +1,12 @@
-# Wetboek Tedeapolis
+# Wetboek BigPoint
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam            | Algemeen Wetboek Tedeapolis |
-| Citeertitel               | Wetboek Tedeapolis |
+| Overheidsorganisatie      | Hoge Raad BigPoint |
+| Officiële naam            | Algemeen Wetboek BigPoint |
+| Citeertitel               | Wetboek BigPoint |
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid |
 
@@ -14,15 +14,15 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Tedeapolis (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
-2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad Tedeapolis.
-3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening Tedeapolis (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek BigPoint (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
+2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad BigPoint.
+3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening BigPoint (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Tedeapolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Tedeapolis niet van toepassing.
+3. Minderjarigen worden binnen BigPoint op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in BigPoint niet van toepassing.
 
 ### A3 - Verjaring van het strafbaar feit
 
@@ -955,4 +955,4 @@
 7. Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.
 
 ---------------------
-*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
+*Wetboek BigPoint is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “BigPoint”, opgetekend door Bram Mosterdfiets, te BigPoint.*
