@@ -1,2 +1,3 @@
 site_name: Bigpoint2
-theme: readthedocs
+theme:
+  name: material
