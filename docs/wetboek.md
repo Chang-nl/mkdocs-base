@@ -112,8 +112,6 @@
 
 ## Titel I - Vermogensdelicten
 
-![Titel I](img/wetboek/Vermogen.png)
-
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben.
@@ -197,8 +195,6 @@
 4. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
 ## Titel II - Geweldsdelicten
-
-![Titel II](img/wetboek/Geweld.png)
 
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
@@ -297,8 +293,6 @@
 | **Meerdere Veroordelingen**  | 10 maanden  |  | € 6000,-  |
 
 ## Titel III - Verkeersdelicten
-
-![Titel III](img/wetboek/verkeer.png)
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
@@ -513,8 +507,6 @@
 
 ## Titel IV - Opiumwet
 
-![Titel IV](img/wetboek/opium.png)
-
 ### Artikel IV-1 Harddrugs (2 OW)
 
 1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, of verkoopt.
@@ -618,8 +610,6 @@
 
 ## Titel V - Wet Wapens en Munitie
 
-![Titel V](img/wetboek/WWM.png)
-
 ### Artikel V-1 Tasers (26 WWM)
 
 1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
@@ -684,8 +674,6 @@
 
 ## Titel VI - Wet op de Kansspelen
 
-![Titel VII](img/wetboek/kansspellen.png)
-
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
 1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
@@ -735,8 +723,6 @@
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
-![Titel VII](https://i.imgur.com/7KGl9DA.png)
-
 ### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
 
 1. Niet schuldig is een persoon die:
@@ -777,8 +763,6 @@
    * aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 ## Titel VIII - Overige
-
-![Titel VIII](img/wetboek/Overige.png)
 
 ### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
