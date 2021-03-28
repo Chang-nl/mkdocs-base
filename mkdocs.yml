@@ -1,4 +1,4 @@
-site_name: BigPoint RP2
+site_name: BigPoint RP
 site_description: 'wet en regelgeving van BigPoint'
 nav:
   - Home: index.md
