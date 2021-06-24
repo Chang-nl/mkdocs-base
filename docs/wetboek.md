@@ -11,14 +11,14 @@
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
-2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen BigPoint op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in BigPoint niet van toepassing.
+2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
+3. Minderjarigen worden binnen BigPoint op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in BigPoint niet van toepassing, houd wel rekening met hun leeftijd tijdens de roleplay.
 
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-   * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 7 dagen;
-   * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 14 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 1 en 50 taken bedroeg, verjaren deze feiten na 14 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 51+ taken, verjaren deze feiten na 30 dagen;
    * Voor misdrijven waar de totale strafeis tussen de 0 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
    * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 60 dagen;
 
@@ -34,21 +34,20 @@
 2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
-5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
-6. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-7. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
+5. Een straf kan ook verlaagd worden door verzachtende omstandigheden of form fouten die gemaakt zijn door de overheidsmedewerker.
+6. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
 
 ### A5 - Strafblad
 
-1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
+1. Straffen die enige vorm van celstraf bevatten leiden tot een strafblad.
+2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met taakstraf, ingaand op de datum van de opgelegde straf.
 3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
 
 ### A6 - Verduidelijking en algemene aanvulling
 
 1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld.
    * Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
-2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
+2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal 3 dagen.
    * Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
 3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
    * Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
@@ -57,21 +56,21 @@
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit misdrijf is verkregen, kan deze in beslag worden genomen.
    * De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
-   * Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
+   * Verwerking van de in beslag genomen goederen geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een misdrijf:
    * Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
    * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
-   * Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
+   * Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
+   * Zal deze in beslag worden genomeen vanwege teveel opstaande boetes dan kan men hun voertuig gratis ophalen als ze aan kunnen tonen dat alle boetes betaald zijn.
    * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste € 100000,-
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
-   * Wanneer het voertuig bewijsbaar onderdeel was van het misdrijf en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
    * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen. In dit geval zal het voertuig worden vernietigd.
 
 ### A8 - Openstaande boetes
 
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
    * Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
-   * Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
+   * Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd (15 taken)
    * De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.
    * Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
@@ -82,23 +81,8 @@
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 3. Indien de verdachte verkiest zelf een voorkeursadvocaat op te roepen zijn de kosten van consultatie en rechtsbijstand voor rekening van de verdachte;
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
+5. Verdachte kan 24 uur in voorarrest worden geplaatst zodat hij/zij een advocaat kan regelen, mocht dat niet lukken dan heeft de verdachte na 24 uur de keus om zichzelf te verdedigen of nogmaals 24 uur in voorarrest geplaatst te worden.
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
-
-### A10 - Algemene rechtsbeginselen
-
-1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
-2. Onder de algemene rechtsbeginselen wordt verstaan:
-   * Subsidiariteit, het toepassen van maatregelen en acties die het minst bezwarend zijn;
-   * Proportionaliteit, het in verhouding hebben en houden van acties, sancties en beslissingen ten opzichte van het (mogelijk) gepleegde feit;
-   * Behoorlijk Bestuur, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
-   * Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
-   * Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
-   * Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
-   * Hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
-   * Onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
-   * Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
-   * Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
-   * Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
 ## Titel I - Vermogensdelicten
 
@@ -917,6 +901,3 @@
 5. De douane is bevoegd vervoermiddelen die aanwezig zijn in of op de bedoelde locaties van lid 1 te doorzoeken.
 6. Personen zijn op vordering van de douane gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.
 7. Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.
-
----------------------
-*Wetboek BigPoint is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “BigPoint”, opgetekend door Bram Mosterdfiets, te BigPoint.*
