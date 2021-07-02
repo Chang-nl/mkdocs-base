@@ -8,7 +8,7 @@
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
-heel lekker dit
+
 1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
