@@ -1,4 +1,4 @@
-# Wetboek BigPoint
+# Wetboek BigPoint 
 
 ## Algemene Bepalingen
 
